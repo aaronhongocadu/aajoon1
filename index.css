@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+
+#container{
+    /* width: 400px;   */
+    width: 60%;
+    margin: auto;
+}
+img{
+    width: 90%;
+}
